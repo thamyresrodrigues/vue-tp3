@@ -14,7 +14,6 @@
     <p v-bind:style="{ fontSize: fontSize + 'px', color: color }">
       {{ mensagem }}
     </p>
-
     <hr />
   </div>
 </template>
